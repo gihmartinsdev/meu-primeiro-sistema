@@ -1,5 +1,5 @@
 package br.com.meusistema.main;
-// 🚨 OLHE O IMPORT AQUI! O Sistema precisa avisar que vai usar o Carro do outro "bairro".
+
 
 import br.com.meusistema.model.carro;
 
